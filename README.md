@@ -14,3 +14,7 @@ mutation to.
 
 Arrows to move. Space to mate. You have to be close enough to the other sphere for it to happen. Other spheres will stop
 when you approach. After mating, other sphere is not going to mate for some time (it is tired, you know).
+
+## Binaries
+
+Grab them from [v0.0.1-proof-of-concept release page](https://github.com/mcveat/spheres-genetic/releases/tag/v0.0.1-proof-of-concept).
